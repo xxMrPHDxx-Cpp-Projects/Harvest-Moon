@@ -1,0 +1,13 @@
+{
+	"sheet": "imgs/crops.png",
+	"tileSize": 16,
+	"crops": [
+		{
+			"name": "farm_tile",
+			"rect": [ 0, 0 ]
+		},{
+			"name": "farm_tile_watered",
+			"rect": [ 0, 1 ]
+		}
+	]
+}

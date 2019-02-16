@@ -1,0 +1,166 @@
+{
+	"spritesheet": "imgs/tiles.png",
+	"tileSize": 16,
+	"tiles": [
+		{
+			"name": "grass_hill_top_left",
+			"rect": [ 0, 0 ]
+		},{
+			"name": "grass_hill_top1",
+			"rect": [ 0, 1 ]
+		},{
+			"name": "grass_hill_top2",
+			"rect": [ 0, 2 ]
+		},{
+			"name": "grass_hill_top_right",
+			"rect": [ 0, 3 ]
+		},{
+			"name": "stone_top_left",
+			"rect": [ 0, 4 ]
+		},{
+			"name": "stone_top_right",
+			"rect": [ 0, 5 ]
+		},{
+			"name": "bush",
+			"rect": [ 0, 6 ]
+		},{
+			"name": "grass_hill_left",
+			"rect": [ 1, 0 ]
+		},{
+			"name": "grass_hill_middle1",
+			"rect": [ 1, 1 ]
+		},{
+			"name": "grass_hill_middle2",
+			"rect": [ 1, 2 ]
+		},{
+			"name": "grass_hill_right",
+			"rect": [ 1, 3 ]
+		},{
+			"name": "stone_bottom_left",
+			"rect": [ 1, 4 ]
+		},{
+			"name": "stone_bottom_right",
+			"rect": [ 1, 5 ]
+		},{
+			"name": "grass_hill_bottom_left",
+			"rect": [ 2, 0 ]
+		},{
+			"name": "grass_hill_bottom1",
+			"rect": [ 2, 1 ]
+		},{
+			"name": "grass_hill_bottom2",
+			"rect": [ 2, 2 ]
+		},{
+			"name": "grass_hill_bottom_right",
+			"rect": [ 2, 3 ]
+		},{
+			"name": "dirt_dark_top_left",
+			"rect": [ 3, 0 ]
+		},{
+			"name": "dirt_dark_top",
+			"rect": [ 3, 1 ]
+		},{
+			"name": "dirt_dark_top_right",
+			"rect": [ 3, 2 ]
+		},{
+			"name": "shipment_box_top_left",
+			"rect": [ 3, 6 ]
+		},{
+			"name": "shipment_box_top_right",
+			"rect": [ 3, 7 ]
+		},{
+			"name": "dirt_dark_left",
+			"rect": [ 4, 0 ]
+		},{
+			"name": "farm_plot",
+			"rect": [ 4, 1 ]
+		},{
+			"name": "dirt_dark_right",
+			"rect": [ 4, 2 ]
+		},{
+			"name": "shipment_box_bottom_left",
+			"rect": [ 4, 6 ]
+		},{
+			"name": "shipment_box_bottom_right",
+			"rect": [ 4, 7 ]
+		},{
+			"name": "dirt_dark_bottom_left",
+			"rect": [ 5, 0 ]
+		},{
+			"name": "dirt_dark_bottom",
+			"rect": [ 5, 1 ]
+		},{
+			"name": "dirt_dark_bottom_right",
+			"rect": [ 5, 2 ]
+		},{
+			"name": "fence_connect_right",
+			"rect": [ 5, 5 ]
+		},{
+			"name": "fence_connect_left",
+			"rect": [ 5, 6 ]
+		},{
+			"name": "fence_connect_middle",
+			"rect": [ 5, 7 ]
+		},{
+			"name": "fence_connect_vert_right_dark",
+			"rect": [ 6, 6 ]
+		},{
+			"name": "fence_connect_vert_left",
+			"rect": [ 6, 7 ]
+		},{
+			"name": "sign",
+			"rect": [ 7, 4 ]
+		},{
+			"name": "fence_connect_vert_left_dark",
+			"rect": [ 7, 6 ]
+		},{
+			"name": "fence_connect_vert_right",
+			"rect": [ 7, 7 ]
+		},{
+			"name": "soil_dark_top_left",
+			"rect": [ 8, 0 ]
+		},{
+			"name": "soil_dark_top",
+			"rect": [ 8, 1 ]
+		},{
+			"name": "soil_dark_top_right",
+			"rect": [ 8, 2 ]
+		},{
+			"name": "soil_dark_shadow1",
+			"rect": [ 8, 3 ]
+		},{
+			"name": "soil_dark_shadow2",
+			"rect": [ 8, 4 ]
+		},{
+			"name": "soil_dark_left",
+			"rect": [ 9, 0 ]
+		},{
+			"name": "soil_dark_middle",
+			"rect": [ 9, 1 ]
+		},{
+			"name": "soil_dark_right",
+			"rect": [ 9, 2 ]
+		},{
+			"name": "stone_path_1_1",
+			"rect": [ 9, 6 ]
+		},{
+			"name": "stone_path_1_2",
+			"rect": [ 9, 7 ]
+		},{
+			"name": "soil_dark_bottom_left",
+			"rect": [ 10, 0 ]
+		},{
+			"name": "soil_dark_bottom",
+			"rect": [ 10, 1 ]
+		},{
+			"name": "soil_dark_bottom_right",
+			"rect": [ 10, 2 ]
+		},{
+			"name": "stone_path_2_1",
+			"rect": [ 10, 6 ]
+		},{
+			"name": "stone_path_2_2",
+			"rect": [ 10, 7 ]
+		}
+	]
+}
