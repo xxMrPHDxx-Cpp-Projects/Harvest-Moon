@@ -1,0 +1,33 @@
+{
+	"spritesheet": "imgs/tools.png",
+	"width": 16,
+	"height": 16,
+	"tools": [
+		{
+			"x": 10,
+			"y": 10,
+			"name": "watering_can",
+			"rect": [ 6, 6 ]
+		},{
+			"x": 26,
+			"y": 10,
+			"name": "sickle",
+			"rect": [ 22, 6 ]
+		},{
+			"x": 42,
+			"y": 10,
+			"name": "hoe",
+			"rect": [ 38, 6 ]
+		},{
+			"x": 58,
+			"y": 10,
+			"name": "hammer",
+			"rect": [ 54, 6 ]
+		},{
+			"x": 74,
+			"y": 10,
+			"name": "axe",
+			"rect": [ 70, 6 ]
+		}
+	]
+}
