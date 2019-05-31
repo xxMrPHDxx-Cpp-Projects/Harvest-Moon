@@ -19,7 +19,8 @@ export default class Animation {
 			}
 		}
 	}
+	get image(){ return this.images[this.index]; }
 	draw(ctx,x,y){
-		ctx.drawImage(this.images[this.index],x,y);
+		ctx.drawImage(this.image,x,y);
 	}
 }

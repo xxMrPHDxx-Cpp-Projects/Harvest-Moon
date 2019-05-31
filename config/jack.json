@@ -1,7 +1,8 @@
 {
+	"spritesheet": "imgs/jack.png",
 	"width": 16,
 	"height": 24,
-	"images": [
+	"tiles": [
 		{
 			"name": "walk-front-1",
 			"rect": [ 29,122 ]

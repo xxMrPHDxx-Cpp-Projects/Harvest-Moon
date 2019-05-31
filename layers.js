@@ -2,11 +2,13 @@ import {loadJSON} from './loaders.js';
 import {loadSprite} from './sprites.js';
 
 export function loadBackground(){
-	return Promise.all([
-		loadJSON('config/ranch.json'),
-		loadSprite('config/tiles.json'),
-	])
-	.then(([config, sprite])=>{
+	return loadJSON('config/ranch.json')
+	.then(config=>{
+		return Promise.all([
+			config,
+			loadSprite('config/tiles.json', true),
+		]);
+	}).then(([config, sprite])=>{
 		const tileSize = sprite.tileSize;
 		const width = tileSize * config.cols;
 		const height = tileSize * config.rows;
